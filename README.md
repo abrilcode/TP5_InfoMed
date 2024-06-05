@@ -1,7 +1,7 @@
 ## Informática Médica
 # Trabajo Práctico 5 
 
-![Logo del ITBA](ruta/a/logo.png) 
+![Logo del ITBA](logo-itba-site.png) 
 
 ## Información del Proyecto
 
