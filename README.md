@@ -33,11 +33,6 @@ Las entidades principales de la base de datos son:
 - **Consultas**: Registra todas las consultas médicas realizadas, incluyendo fecha, médico y paciente involucrados, y diagnóstico.
 - **Recetas**: Vincula pacientes con medicamentos prescritos por los médicos, incluyendo información sobre el medicamento, cantidad y frecuencia.
 
-### Diagrama de Entidad-Relación
-
-![Diagrama ER](Diagrama en blanco.png) 
-
-
 ## Estructura del Repositorio
 
 - `README.md`: Este archivo.
