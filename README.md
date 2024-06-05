@@ -35,7 +35,7 @@ Las entidades principales de la base de datos son:
 
 ### Diagrama de Entidad-Relación
 
-![Diagrama ER](ruta/a/diagrama_er.png) 
+![Diagrama ER](Diagrama en blanco.png) 
 
 
 ## Estructura del Repositorio
