@@ -1,2 +1,2 @@
 ## 2. 
-![Diagrama en blanco](Diagrama en blanco.png)
+![Diagrama en blanco](Diagrama.png.png)
