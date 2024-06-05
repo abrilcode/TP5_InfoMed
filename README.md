@@ -36,7 +36,6 @@ Las entidades principales de la base de datos son:
 ## Estructura del Repositorio
 
 - `README.md`: Este archivo.
-- `database/`: Scripts SQL para la creación y población de la base de datos.
 - `docs/`: Documentación del proyecto.
 - `images/`: Imágenes utilizadas en el README, como el logo del ITBA y el diagrama ER.
 
